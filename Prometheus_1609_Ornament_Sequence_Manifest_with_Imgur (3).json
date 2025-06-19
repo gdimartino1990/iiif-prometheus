@@ -1,0 +1,202 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/prometheus-1609-ornaments/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Ornaments from 1609 Strasbourg Edition of Aeschylus' Prometheus"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1609"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place of Publication"
+        ]
+      },
+      "value": {
+        "en": [
+          "Strasbourg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Printer"
+        ]
+      },
+      "value": {
+        "en": [
+          "Anton Bertram"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source Library"
+        ]
+      },
+      "value": {
+        "en": [
+          "SUB G\u00f6ttingen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Sequence of printer\u2019s ornaments marking transitions or endings in the 1609 Strasbourg edition of Prometheus."
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Ornament 1"
+        ]
+      },
+      "width": 3000,
+      "height": 3000,
+      "items": [
+        {
+          "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/iiif/prometheus-1609-ornaments/canvas/1",
+              "body": {
+                "id": "https://i.imgur.com/zkfBE0G.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Ornament 2"
+        ]
+      },
+      "width": 3000,
+      "height": 3000,
+      "items": [
+        {
+          "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/2/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/iiif/prometheus-1609-ornaments/canvas/2",
+              "body": {
+                "id": "https://i.imgur.com/RcEwiGL.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Ornament 3"
+        ]
+      },
+      "width": 3000,
+      "height": 3000,
+      "items": [
+        {
+          "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/3/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/3/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/iiif/prometheus-1609-ornaments/canvas/3",
+              "body": {
+                "id": "https://i.imgur.com/jL4xEBM.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Ornament 4"
+        ]
+      },
+      "width": 3000,
+      "height": 3000,
+      "items": [
+        {
+          "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/4/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/prometheus-1609-ornaments/canvas/4/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/iiif/prometheus-1609-ornaments/canvas/4",
+              "body": {
+                "id": "https://i.imgur.com/9ir0uAB.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
